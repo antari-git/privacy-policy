@@ -6,10 +6,6 @@
 </head>
 <body>
   <p>Last updated: June 9, 2025</p>
-  Privacy Policy
-
-Last updated: [Insert Date]
-
 This Privacy Policy describes how Lazy Harts (legal entity: Oleksandr Pokariev), developer studio Antari, collects and uses personal data in our games and applications published on Google Play.
 
 By installing and playing our games, you agree to the collection and use of information in accordance with this policy.
@@ -72,7 +68,7 @@ We do not knowingly collect personal information from children under the age of 
 If you have any questions about this Privacy Policy or our data practices, you may contact us at:
 
 Oleksandr Pokariev
-Email: [your contact email]
+Email: [contact email_by request]
 Developer Name: Lazy Harts
 Studio: Antari
 
